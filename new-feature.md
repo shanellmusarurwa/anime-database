@@ -1,7 +1,4 @@
-#
-Sure! Here is a sample content for new-feature.md that describes adding a new feature to allow people to stream content online, save and watch later, and download options.
-
-New Feature: Online Streaming, Save for Later, and Download Options
+#New Feature: Online Streaming, Save for Later, and Download Options
 Introduction
 As part of our ongoing efforts to enhance the user experience, we are excited to introduce a new feature that will allow users to stream content online, save it for later viewing, and download it for offline access. This feature aims to provide greater flexibility and convenience, enabling users to enjoy content in a way that best suits their needs and preferences.
 
